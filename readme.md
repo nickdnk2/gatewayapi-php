@@ -5,6 +5,8 @@
 This library will allow you to integrate the **GatewayAPI.com** API in your project using modern PHP.
 For full description of their API, error codes and so on, see: <https://gatewayapi.com/docs>.
 
+## NOTICE: GitHub banned my account for no apparent reason and have yet to reply to my appeal. In the meantime, the repository is not available on GitHub, but it will remain on Packagist (where you can read this message) and I will continue to maintain it. Hopefully this gets resolved.
+
 ### Prerequisites
 
 You need an active account at <https://www.gatewayapi.com> to use this library.
